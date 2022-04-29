@@ -1,4 +1,3 @@
-run = "hugo server --buildDrafts --buildFuture --bind 0.0.0.0 --port 443 --baseURL https://hugo-website.yoyold.repl.co"
-
+run = "sh run.sh"
 [nix]
 channel = "stable-21_11"
