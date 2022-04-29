@@ -1,7 +1,7 @@
 +++
 title = "First Post"
 date = "2022-04-29T06:39:20Z"
-author = "Lukas D"
+author = "yoyold"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
