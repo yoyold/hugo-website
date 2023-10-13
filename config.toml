@@ -10,9 +10,3 @@ theme = 'm10c'
   icon = "github"
   name = "My Github"
   url = "https://github.com/yoyold"
-  [params.style]
-  darkestColor = "#d35050"
-  darkColor = "#212121"
-  lightColor = "#f5e3e0"
-  lightestColor = "#f5f5f5"
-  primaryColor = "#ffffff"
