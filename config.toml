@@ -1,4 +1,12 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-theme-terminal'
+title = 'Asulks page'
+theme = 'm10c'
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/yoyold"
